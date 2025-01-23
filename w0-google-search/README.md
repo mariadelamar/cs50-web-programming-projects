@@ -1,5 +1,13 @@
 # 🌍 Google Search Front-End  
 
+
+*Video demonstration:*
+
+[![Project Demo](https://mariannebm.com/img/github/youtube-video-search.jpg)](https://www.youtube.com/watch?v=JNbEoPWSmU8)
+
+
+
+
 This project is a front-end implementation of **Google Search**, **Google Image Search**, and **Google Advanced Search** using HTML forms. By analyzing Google's URL structure, we learn how search queries are processed through **GET parameters**.  
 
 ## 🚀 Features  
